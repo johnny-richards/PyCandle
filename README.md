@@ -10,4 +10,4 @@ Deflate the for packages, create a folder named "./datasets/mnist/" at the proje
 python main.py
 
 # Auto Grad
-Auto grad machanism is on the way, and 
+Auto grad machanism is on the way, and you could see the "tensor" implementation simliar to the famous pytorch object in "nn" folder. Such folder is not available at the moement.
